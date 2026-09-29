@@ -5,7 +5,7 @@ Code, outputs and paper for the term paper
 > **Birds Can Still Not Fly? Negation in Factual Probes from BERT to Modern Language Models**
 > Priyadith Hosahalli Nagesh, Universität Trier.
 > Advanced Topics in Computational Text and Media Sciences #1, SoSe 2026.
-> Paper: [`paper/negation_paper.pdf`](paper/negation_paper.pdf)
+> Paper: [`negprobe/paper/negation_paper.pdf`](paper/negation_paper.pdf)
 
 The paper replicates the negated LAMA experiments of
 [Kassner & Schütze (2020)](https://aclanthology.org/2020.acl-main.698/) and extends them in three ways:
