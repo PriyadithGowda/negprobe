@@ -1,0 +1,28 @@
+{
+  "model": "bert-large-cased",
+  "kind": "mlm",
+  "n_pairs": 39567,
+  "vocab_size": 21018,
+  "common_vocab": true,
+  "seconds": 2824.1,
+  "args": {
+    "model": "bert-large-cased",
+    "kind": "auto",
+    "data": "data/negated_data",
+    "subsets": [
+      "GoogleRE",
+      "TREx"
+    ],
+    "trex_templates": null,
+    "vocab": "data/common_vocab_cased.txt",
+    "only_mask_final": false,
+    "limit": null,
+    "batch_size": 32,
+    "device": "auto",
+    "dtype": "auto",
+    "load_in_4bit": false,
+    "trust_remote_code": false,
+    "out": "results_fixed"
+  },
+  "torch": "2.8.0"
+}

@@ -1,0 +1,9 @@
+torch>=2.1
+transformers>=4.44
+accelerate
+pandas
+matplotlib
+scipy
+tqdm
+# only for --load-in-4bit on large models (Linux + NVIDIA GPU):
+# bitsandbytes

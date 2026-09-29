@@ -1,0 +1,226 @@
+OK   | Table 1 BERT-base GoogleRE rho                                                         paper   0.834  data     0.8342
+OK   | Table 1 BERT-base GoogleRE overlap                                                     paper   0.113  data     0.1133
+OK   | Table 1 BERT-base GoogleRE delta                                                       paper  -0.814  data    -0.8143
+OK   | Table 1 BERT-base GoogleRE p1_pos                                                      paper   0.099  data     0.0988
+OK   | Table 1 BERT-base GoogleRE p1_neg                                                      paper   0.028  data     0.0277
+OK   | Table 1 BERT-base GoogleRE N                                                           paper    5528  data  5528.0000
+OK   | Table 1 BERT-large GoogleRE rho                                                        paper   0.776  data     0.7757
+OK   | Table 1 BERT-large GoogleRE overlap                                                    paper   0.112  data     0.1119
+OK   | Table 1 BERT-large GoogleRE delta                                                      paper  -0.840  data    -0.8395
+OK   | Table 1 BERT-large GoogleRE p1_pos                                                     paper   0.105  data     0.1051
+OK   | Table 1 BERT-large GoogleRE p1_neg                                                     paper   0.028  data     0.0280
+OK   | Table 1 BERT-large GoogleRE N                                                          paper    5528  data  5528.0000
+OK   | Table 1 Pythia-410m GoogleRE rho                                                       paper   0.881  data     0.8811
+OK   | Table 1 Pythia-410m GoogleRE overlap                                                   paper   0.259  data     0.2593
+OK   | Table 1 Pythia-410m GoogleRE delta                                                     paper  -0.748  data    -0.7484
+OK   | Table 1 Pythia-410m GoogleRE p1_pos                                                    paper   0.045  data     0.0454
+OK   | Table 1 Pythia-410m GoogleRE p1_neg                                                    paper   0.013  data     0.0131
+OK   | Table 1 Pythia-410m GoogleRE N                                                         paper    5528  data  5528.0000
+OK   | Table 1 BERT-base released TREx rho                                                    paper   0.866  data     0.8659
+OK   | Table 1 BERT-base released TREx overlap                                                paper   0.519  data     0.5191
+OK   | Table 1 BERT-base released TREx delta                                                  paper  -0.735  data    -0.7351
+OK   | Table 1 BERT-base released TREx p1_pos                                                 paper   0.311  data     0.3111
+OK   | Table 1 BERT-base released TREx p1_neg                                                 paper   0.237  data     0.2366
+OK   | Table 1 BERT-base released TREx N                                                      paper   34039  data 34039.0000
+OK   | Table 1 BERT-large released TREx rho                                                   paper   0.832  data     0.8316
+OK   | Table 1 BERT-large released TREx overlap                                               paper   0.469  data     0.4691
+OK   | Table 1 BERT-large released TREx delta                                                 paper  -1.018  data    -1.0182
+OK   | Table 1 BERT-large released TREx p1_pos                                                paper   0.323  data     0.3229
+OK   | Table 1 BERT-large released TREx p1_neg                                                paper   0.251  data     0.2506
+OK   | Table 1 BERT-large released TREx N                                                     paper   34039  data 34039.0000
+OK   | Table 1 BERT-base repaired TREx rho                                                    paper   0.887  data     0.8870
+OK   | Table 1 BERT-base repaired TREx overlap                                                paper   0.541  data     0.5409
+OK   | Table 1 BERT-base repaired TREx delta                                                  paper  -0.568  data    -0.5677
+OK   | Table 1 BERT-base repaired TREx p1_pos                                                 paper   0.311  data     0.3111
+OK   | Table 1 BERT-base repaired TREx p1_neg                                                 paper   0.237  data     0.2371
+OK   | Table 1 BERT-base repaired TREx N                                                      paper   34039  data 34039.0000
+OK   | Table 1 BERT-large repaired TREx rho                                                   paper   0.852  data     0.8524
+OK   | Table 1 BERT-large repaired TREx overlap                                               paper   0.491  data     0.4908
+OK   | Table 1 BERT-large repaired TREx delta                                                 paper  -0.840  data    -0.8399
+OK   | Table 1 BERT-large repaired TREx p1_pos                                                paper   0.323  data     0.3229
+OK   | Table 1 BERT-large repaired TREx p1_neg                                                paper   0.251  data     0.2514
+OK   | Table 1 BERT-large repaired TREx N                                                     paper   34039  data 34039.0000
+OK   | Table 2 BERT-base rho                                                                  paper   0.880  data     0.8801
+OK   | Table 2 BERT-base overlap                                                              paper   0.517  data     0.5167
+OK   | Table 2 BERT-base delta                                                                paper  -0.491  data    -0.4912
+OK   | Table 2 BERT-base p1_pos                                                               paper   0.363  data     0.3630
+OK   | Table 2 BERT-base p1_neg                                                               paper   0.277  data     0.2767
+OK   | Table 2 BERT-base n pairs                                                              paper   28764  data 28764.0000
+OK   | Table 2 BERT-base n relations                                                          paper      35  data    35.0000
+OK   | Table 2 BERT-large rho                                                                 paper   0.842  data     0.8419
+OK   | Table 2 BERT-large overlap                                                             paper   0.487  data     0.4866
+OK   | Table 2 BERT-large delta                                                               paper  -0.817  data    -0.8170
+OK   | Table 2 BERT-large p1_pos                                                              paper   0.376  data     0.3756
+OK   | Table 2 BERT-large p1_neg                                                              paper   0.292  data     0.2923
+OK   | Table 2 BERT-large n pairs                                                             paper   28764  data 28764.0000
+OK   | Table 2 BERT-large n relations                                                         paper      35  data    35.0000
+OK   | Table 2 Pythia-410m rho                                                                paper   0.900  data     0.8997
+OK   | Table 2 Pythia-410m overlap                                                            paper   0.452  data     0.4518
+OK   | Table 2 Pythia-410m delta                                                              paper  -0.083  data    -0.0833
+OK   | Table 2 Pythia-410m p1_pos                                                             paper   0.226  data     0.2259
+OK   | Table 2 Pythia-410m p1_neg                                                             paper   0.221  data     0.2206
+OK   | Table 2 Pythia-410m n pairs                                                            paper   28764  data 28764.0000
+OK   | Table 2 Pythia-410m n relations                                                        paper      35  data    35.0000
+OK   | Table 2 Pythia-1.4b rho                                                                paper   0.899  data     0.8988
+OK   | Table 2 Pythia-1.4b overlap                                                            paper   0.455  data     0.4552
+OK   | Table 2 Pythia-1.4b delta                                                              paper  -0.016  data    -0.0157
+OK   | Table 2 Pythia-1.4b p1_pos                                                             paper   0.239  data     0.2389
+OK   | Table 2 Pythia-1.4b p1_neg                                                             paper   0.231  data     0.2312
+OK   | Table 2 Pythia-1.4b n pairs                                                            paper   28764  data 28764.0000
+OK   | Table 2 Pythia-1.4b n relations                                                        paper      35  data    35.0000
+OK   | Table 2 identical item sets for all four models (1 = true)                             paper       1  data     1.0000
+OK   | Table 3 Base GoogleRE n_items                                                          paper     600  data   600.0000
+OK   | Table 3 Base GoogleRE acc_affirmative                                                  paper   0.640  data     0.6400
+OK   | Table 3 Base GoogleRE acc_negated                                                      paper   0.507  data     0.5067
+OK   | Table 3 Base GoogleRE negation_gap                                                     paper   0.133  data     0.1333
+OK   | Table 3 Base GoogleRE pair_consistency                                                 paper   0.327  data     0.3267
+OK   | Table 3 Base GoogleRE says_true_rate                                                   paper   0.163  data     0.1633
+OK   | Table 3 Base TREx n_items                                                              paper    8200  data  8200.0000
+OK   | Table 3 Base TREx acc_affirmative                                                      paper   0.749  data     0.7490
+OK   | Table 3 Base TREx acc_negated                                                          paper   0.525  data     0.5246
+OK   | Table 3 Base TREx negation_gap                                                         paper   0.224  data     0.2244
+OK   | Table 3 Base TREx pair_consistency                                                     paper   0.378  data     0.3776
+OK   | Table 3 Base TREx says_true_rate                                                       paper   0.192  data     0.1924
+OK   | Table 3 Instruct GoogleRE n_items                                                      paper     600  data   600.0000
+OK   | Table 3 Instruct GoogleRE acc_affirmative                                              paper   0.653  data     0.6533
+OK   | Table 3 Instruct GoogleRE acc_negated                                                  paper   0.567  data     0.5667
+OK   | Table 3 Instruct GoogleRE negation_gap                                                 paper   0.087  data     0.0867
+OK   | Table 3 Instruct GoogleRE pair_consistency                                             paper   0.433  data     0.4333
+OK   | Table 3 Instruct GoogleRE says_true_rate                                               paper   0.257  data     0.2567
+OK   | Table 3 Instruct TREx n_items                                                          paper    8200  data  8200.0000
+OK   | Table 3 Instruct TREx acc_affirmative                                                  paper   0.773  data     0.7729
+OK   | Table 3 Instruct TREx acc_negated                                                      paper   0.622  data     0.6217
+OK   | Table 3 Instruct TREx negation_gap                                                     paper   0.151  data     0.1512
+OK   | Table 3 Instruct TREx pair_consistency                                                 paper   0.601  data     0.6010
+OK   | Table 3 Instruct TREx says_true_rate                                                   paper   0.314  data     0.3137
+OK   | Table 4 Instruct TREx acc_affirmative_gold                                             paper   0.690  data     0.6898
+OK   | Table 4 Instruct TREx acc_affirmative_distractor                                       paper   0.856  data     0.8561
+OK   | Table 4 Instruct TREx acc_negated_gold                                                 paper   0.911  data     0.9112
+OK   | Table 4 Instruct TREx acc_negated_distractor                                           paper   0.332  data     0.3322
+OK   | Table 4 Instruct GoogleRE acc_affirmative_gold                                         paper   0.460  data     0.4600
+OK   | Table 4 Instruct GoogleRE acc_affirmative_distractor                                   paper   0.847  data     0.8467
+OK   | Table 4 Instruct GoogleRE acc_negated_gold                                             paper   0.860  data     0.8600
+OK   | Table 4 Instruct GoogleRE acc_negated_distractor                                       paper   0.273  data     0.2733
+OK   | Table 4 Base TREx acc_affirmative_gold                                                 paper   0.569  data     0.5693
+OK   | Table 4 Base TREx acc_affirmative_distractor                                           paper   0.929  data     0.9288
+OK   | Table 4 Base TREx acc_negated_gold                                                     paper   0.960  data     0.9600
+OK   | Table 4 Base TREx acc_negated_distractor                                               paper   0.089  data     0.0893
+OK   | Table 4 caption: True-correct cells are the two worst, Instruct TREx (1 = true)        paper       1  data     1.0000
+OK   | Table 4 caption: True-correct cells are the two worst, Instruct GoogleRE (1 = true)    paper       1  data     1.0000
+OK   | Table 4 caption: True-correct cells are the two worst, Base TREx (1 = true)            paper       1  data     1.0000
+OK   | Table 4 caption: True-correct cells are the two worst, Base GoogleRE (1 = true)        paper       1  data     1.0000
+OK   | Table 4 items per cell (T-REx), max                                                    paper    2050  data  2050.0000
+OK   | Table 4 items per cell (T-REx), min                                                    paper    2050  data  2050.0000
+OK   | Table 4 identical statements for base and instruct (1 = true)                          paper       1  data     1.0000
+OK   | Table 5 BERT-base rho macro                                                            paper   0.887  data     0.8870
+OK   | Table 5 BERT-base rho micro                                                            paper   0.883  data     0.8831
+OK   | Table 5 BERT-base overlap macro                                                        paper   0.541  data     0.5409
+OK   | Table 5 BERT-base overlap micro                                                        paper   0.525  data     0.5247
+OK   | Table 5 BERT-base delta macro                                                          paper  -0.568  data    -0.5677
+OK   | Table 5 BERT-base delta micro                                                          paper  -0.590  data    -0.5896
+OK   | Table 5 BERT-large rho macro                                                           paper   0.852  data     0.8524
+OK   | Table 5 BERT-large rho micro                                                           paper   0.849  data     0.8490
+OK   | Table 5 BERT-large overlap macro                                                       paper   0.491  data     0.4908
+OK   | Table 5 BERT-large overlap micro                                                       paper   0.479  data     0.4789
+OK   | Table 5 BERT-large delta macro                                                         paper  -0.840  data    -0.8399
+OK   | Table 5 BERT-large delta micro                                                         paper  -0.906  data    -0.9063
+OK   | Sec 4 Google-RE relations                                                              paper       3  data     3.0000
+OK   | Sec 4 T-REx relations                                                                  paper      41  data    41.0000
+OK   | Sec 1 all BERT pairs (Google-RE + T-REx)                                               paper   39567  data 39567.0000
+OK   | Sec 4 mask-final T-REx pairs                                                           paper   28764  data 28764.0000
+OK   | Sec 4 mask-final share (%)                                                             paper    84.5  data    84.5031
+OK   | Sec 4 Pythia T-REx pairs scored                                                        paper   28764  data 28764.0000
+OK   | Sec 4 Pythia Google-RE pairs scored (all)                                              paper    5528  data  5528.0000
+OK   | Fig 3 caption: p410 T-REx relations with mask-final pairs                              paper      35  data    35.0000
+OK   | Fig 3 caption: p14 T-REx relations with mask-final pairs                               paper      35  data    35.0000
+OK   | Sec 4 BERT restricted vocabulary                                                       paper   21018  data 21018.0000
+OK   | Sec 4 Pythia restricted vocabulary                                                     paper   15800  data 15800.0000
+OK   | Sec 5 largest |macro - micro| overlap is on Google-RE (1 = true)                       paper       1  data     1.0000
+OK   | Sec 5 largest |macro - micro| delta is on Google-RE (1 = true)                         paper       1  data     1.0000
+OK   | Sec 5 max |macro - micro| overlap ('up to 0.05')                                       paper    0.05  data     0.0507
+OK   | Sec 5 max |macro - micro| delta ('up to 0.27')                                         paper    0.27  data     0.2746
+OK   | Sec 6.1 BERT-base overlap, released (%)                                                paper    51.9  data    51.9085
+OK   | Sec 6.1 BERT-base rho, released                                                        paper   0.866  data     0.8659
+OK   | Sec 6.1 BERT-large overlap, released (%)                                               paper    46.9  data    46.9058
+OK   | Sec 6.1 BERT-large rho, released                                                       paper   0.832  data     0.8316
+OK   | Sec 6.1 BERT-base overlap, repaired (%)                                                paper    54.1  data    54.0852
+OK   | Sec 6.1 BERT-large overlap, repaired (%)                                               paper    49.1  data    49.0803
+OK   | Sec 6.2 overlap drop base -> large (points)                                            paper       5  data     5.0049
+OK   | Sec 6.2 bert-base-cased delta 95% CI, low                                              paper  -0.606  data    -0.6060
+OK   | Sec 6.2 bert-base-cased delta 95% CI, high                                             paper  -0.573  data    -0.5730
+OK   | Sec 6.2 bert-large-cased delta 95% CI, low                                             paper  -0.934  data    -0.9340
+OK   | Sec 6.2 bert-large-cased delta 95% CI, high                                            paper  -0.879  data    -0.8790
+OK   | Sec 6.2 BERT-base micro delta                                                          paper  -0.590  data    -0.5896
+OK   | Sec 6.2 BERT-large micro delta                                                         paper  -0.906  data    -0.9063
+OK   | Sec 6.2 BERT-base P36 delta                                                            paper   -3.35  data    -3.3479
+OK   | Sec 6.2 BERT-large P36 delta                                                           paper   -9.98  data    -9.9784
+OK   | Sec 6.2 BERT-base macro delta without P36                                              paper  -0.498  data    -0.4981
+OK   | Sec 6.2 BERT-large macro delta without P36                                             paper  -0.611  data    -0.6114
+OK   | Sec 6.2 BERT-base median pair delta                                                    paper  -0.199  data    -0.1991
+OK   | Sec 6.2 BERT-large median pair delta                                                   paper  -0.185  data    -0.1846
+OK   | Sec 6.2 corr(overlap, delta) over 41 relations                                         paper   0.578  data     0.5775
+OK   | Sec 6.2 P463 overlap                                                                   paper   0.947  data     0.9467
+OK   | Sec 6.2 P1376 overlap                                                                  paper   0.915  data     0.9145
+OK   | Sec 6.2 P103 overlap                                                                   paper   0.000  data     0.0000
+OK   | Sec 6.2 P103 delta                                                                     paper   -4.73  data    -4.7343
+OK   | Sec 6.2 P364 overlap                                                                   paper   0.013  data     0.0129
+OK   | Sec 6.2 P364 delta                                                                     paper   -4.35  data    -4.3503
+OK   | Sec 6.2 P103 P@1 affirmative (%)                                                       paper    72.2  data    72.1597
+OK   | Sec 6.2 P103 P@1 negated (%)                                                           paper     0.0  data     0.0000
+OK   | Sec 6.2 Google-RE date_of_birth overlap                                                paper   0.011  data     0.0110
+OK   | Sec 6.2 Google-RE place_of_birth overlap                                               paper   0.112  data     0.1124
+OK   | Sec 6.2 Google-RE place_of_death overlap                                               paper   0.217  data     0.2167
+OK   | Sec 6.3 released P103 overlap                                                          paper   0.000  data     0.0000
+OK   | Sec 6.3 released P103 delta                                                            paper   -6.54  data    -6.5409
+OK   | Sec 6.3 released P190 overlap                                                          paper   0.000  data     0.0000
+OK   | Sec 6.3 released P190 delta                                                            paper   -5.10  data    -5.0995
+OK   | Sec 6.3 P103 and P190 are the two largest released effects (1 = true)                  paper       1  data     1.0000
+OK   | Sec 6.3 overlap gain from the repair, base ('about two points')                        paper       2  data     2.1767
+OK   | Sec 6.3 overlap gain from the repair, large ('about two points')                       paper       2  data     2.1745
+OK   | Sec 6.3 share of released delta due to P103/P190, base ('roughly a fifth', 0.15-0.25)  paper     0.2  data     0.2000
+OK   | Sec 6.3 share of released delta due to P103/P190, large ('roughly a fifth', 0.15-0.25) paper     0.2  data     0.2000
+OK   | Sec 6.3 repaired P190 overlap                                                          paper   0.892  data     0.8925
+OK   | Sec 6.3 repaired P190 delta                                                            paper   -0.04  data    -0.0427
+OK   | Sec 6.3 P190 rank by overlap among 41 relations ('one of the least sensitive')         paper       3  data     3.0000
+OK   | Sec 6.6 bb common-set delta without P36                                                paper  -0.407  data    -0.4072
+OK   | Sec 6.6 bl common-set delta without P36                                                paper  -0.548  data    -0.5475
+OK   | Sec 6.6 p410 common-set delta without P36                                              paper   0.001  data     0.0006
+OK   | Sec 6.6 p14 common-set delta without P36                                               paper   0.026  data     0.0258
+OK   | Sec 6.6 Pythia Google-RE delta, 410m                                                   paper  -0.748  data    -0.7484
+OK   | Sec 6.6 Pythia Google-RE delta, 1.4b                                                   paper  -1.180  data    -1.1801
+OK   | Sec 6.7 T-REx negated accuracy (%)                                                     paper    62.2  data    62.1707
+OK   | Sec 6.7 T-REx negation gap (points)                                                    paper    15.1  data    15.1220
+OK   | Sec 6.7 pair consistency                                                               paper   0.601  data     0.6010
+OK   | Sec 6.7 same verdict for statement and negation ('about two fifths', 0.35-0.45)        paper     0.4  data     0.4000
+OK   | Sec 6.7 negated accuracy on known facts                                                paper   0.660  data     0.6602
+OK   | Sec 6.7 overall accuracy                                                               paper   0.697  data     0.6973
+OK   | Sec 6.7 says True overall, T-REx (%)                                                   paper    31.4  data    31.3659
+OK   | Sec 6.7 says True, affirmative gold (%)                                                paper    69.0  data    68.9756
+OK   | Sec 6.7 says True, affirmative distractor (%)                                          paper    14.4  data    14.3902
+OK   | Sec 6.7 affirmative margin (points)                                                    paper      55  data    54.5854
+OK   | Sec 6.7 says True, negated distractor (%)                                              paper    33.2  data    33.2195
+OK   | Sec 6.7 says True, negated gold (%)                                                    paper     8.9  data     8.8780
+OK   | Sec 6.7 negated margin (points)                                                        paper      24  data    24.3415
+OK   | Sec 6.7 negated accuracy = 0.5 + half the negated margin                               paper   0.622  data     0.6217
+OK   | Sec 6.7 says True, affirmative statements (%)                                          paper      42  data    41.6829
+OK   | Sec 6.7 says True, negated statements (%)                                              paper      21  data    21.0488
+OK   | Sec 6.7 d' affirmative                                                                 paper    1.56  data     1.5581
+OK   | Sec 6.7 d' negated                                                                     paper    0.91  data     0.9144
+OK   | Sec 6.7 d' ratio ('about three fifths', 0.55-0.65)                                     paper     0.6  data     0.6000
+OK   | Sec 6.7 base says True, affirmative gold (%)                                           paper    56.9  data    56.9268
+OK   | Sec 6.7 base says True, affirmative distractor (%)                                     paper     7.1  data     7.1220
+OK   | Sec 6.7 base affirmative margin (points)                                               paper      50  data    49.8049
+OK   | Sec 6.7 base says True, negated distractor (%)                                         paper     8.9  data     8.9268
+OK   | Sec 6.7 base says True, negated gold (%)                                               paper     4.0  data     4.0000
+OK   | Sec 6.7 base negated margin (points)                                                   paper       5  data     4.9268
+OK   | Sec 6.7 base d' affirmative                                                            paper    1.64  data     1.6413
+OK   | Sec 6.7 base d' negated                                                                paper    0.41  data     0.4054
+OK   | Sec 6.7 base negated accuracy                                                          paper   0.525  data     0.5246
+OK   | Sec 6.7 base pair consistency                                                          paper   0.378  data     0.3776
+OK   | Abstract base negated accuracy (%)                                                     paper    52.5  data    52.4634
+OK   | Sec 7 bb: max |difference| between the two runs on unaffected pairs                    paper       0  data     0.0000
+OK   | Sec 7 bb: pairs compared                                                               paper   37595  data 37595.0000
+OK   | Sec 7 bl: max |difference| between the two runs on unaffected pairs                    paper       0  data     0.0000
+OK   | Sec 7 bl: pairs compared                                                               paper   37595  data 37595.0000
+
+224 passed, 0 failed, 224 checks

@@ -1,0 +1,18 @@
+\begin{table}
+\caption{Negation probing results. $\rho$ and overlap compare the affirmative and negated distributions; $\Delta$ is the change in the log probability of the correct answer under negation.}
+\label{tab:main}
+\begin{tabular}{llrrrrrr}
+\toprule
+Model & Data & N & $\rho$ & Overlap & $\Delta$ & P@1 & P@1 (neg) \\
+\midrule
+bert-base-cased & GoogleRE & 5528 & 0.834000 & 0.113000 & -0.814000 & 0.099000 & 0.028000 \\
+bert-large-cased & GoogleRE & 5528 & 0.776000 & 0.112000 & -0.840000 & 0.105000 & 0.028000 \\
+pythia-1.4b & GoogleRE & 5528 & 0.856000 & 0.148000 & -1.180000 & 0.055000 & 0.016000 \\
+pythia-410m & GoogleRE & 5528 & 0.881000 & 0.259000 & -0.748000 & 0.045000 & 0.013000 \\
+bert-base-cased & TREx & 34039 & 0.887000 & 0.541000 & -0.568000 & 0.311000 & 0.237000 \\
+bert-large-cased & TREx & 34039 & 0.852000 & 0.491000 & -0.840000 & 0.323000 & 0.251000 \\
+pythia-1.4b & TREx & 28764 & 0.899000 & 0.455000 & -0.016000 & 0.239000 & 0.231000 \\
+pythia-410m & TREx & 28764 & 0.900000 & 0.452000 & -0.083000 & 0.226000 & 0.221000 \\
+\bottomrule
+\end{tabular}
+\end{table}

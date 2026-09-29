@@ -1,0 +1,29 @@
+{
+  "model": "EleutherAI/pythia-1.4b",
+  "kind": "causal",
+  "n_pairs": 34292,
+  "vocab_size": 15800,
+  "common_vocab": true,
+  "seconds": 922.2,
+  "args": {
+    "model": "EleutherAI/pythia-1.4b",
+    "kind": "auto",
+    "data": "data/negated_data",
+    "subsets": [
+      "GoogleRE",
+      "TREx"
+    ],
+    "trex_templates": null,
+    "vocab": "data/common_vocab_cased.txt",
+    "only_mask_final": false,
+    "limit": null,
+    "batch_size": 32,
+    "device": "auto",
+    "dtype": "fp32",
+    "load_in_4bit": false,
+    "trust_remote_code": false,
+    "out": "results_repaired_14b"
+  },
+  "torch": "2.11.0+cu128",
+  "note": "Run on Google Colab (Tesla T4) on 2026-09-28 in float32 with the repaired templates (TEMPLATE_FIXES applied; relations.jsonl SHA-256 154be499...5298 checked in the notebook). Code: an earlier snapshot of the negprobe package whose scoring code (scorers.py, truth.py, data.py loading) is identical to this version. Run log: logs/colab_2026-09-28/. summary.csv uses exact-match P@1 (negprobe.metrics.exact_match_p1); the p1_* columns in pairs.jsonl.gz use the earlier first-token rule."
+}

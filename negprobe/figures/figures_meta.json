@@ -1,0 +1,12 @@
+{
+  "models": [
+    "EleutherAI/pythia-1.4b",
+    "EleutherAI/pythia-410m",
+    "bert-base-cased",
+    "bert-large-cased"
+  ],
+  "subsets": [
+    "GoogleRE",
+    "TREx"
+  ]
+}

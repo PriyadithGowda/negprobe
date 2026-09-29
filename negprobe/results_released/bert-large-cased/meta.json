@@ -1,0 +1,8 @@
+{
+  "model": "bert-large-cased",
+  "templates": "as released (relations.jsonl unchanged; TEMPLATE_FIXES not applied)",
+  "subsets": ["GoogleRE", "TREx"],
+  "hardware": "Apple M1, CPU (fp32)",
+  "date": "2026-09-26",
+  "note": "The run's original meta.json was not saved. This file was written afterwards to record provenance. Outputs for the 39 T-REx relations and 3 Google-RE relations not affected by the template error are bit-identical to results/bert-large-cased (checked by verify_numbers.py)."
+}

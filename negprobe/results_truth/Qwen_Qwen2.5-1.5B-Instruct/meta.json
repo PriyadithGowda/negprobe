@@ -1,0 +1,25 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "chat": true,
+  "n_items": 8800,
+  "seconds": 498.0,
+  "args": {
+    "model": "Qwen/Qwen2.5-1.5B-Instruct",
+    "data": "data/negated_data",
+    "subsets": [
+      "TREx",
+      "GoogleRE"
+    ],
+    "trex_templates": null,
+    "per_relation": 50,
+    "chat": "auto",
+    "batch_size": 16,
+    "device": "auto",
+    "dtype": "fp32",
+    "load_in_4bit": false,
+    "trust_remote_code": false,
+    "seed": 0,
+    "out": "results_truth_repaired"
+  },
+  "note": "Run on Google Colab (Tesla T4) on 2026-09-28 in float32 with the repaired templates (TEMPLATE_FIXES applied; relations.jsonl SHA-256 154be499...5298 checked in the notebook). Code: an earlier snapshot of the negprobe package whose scoring code (scorers.py, truth.py, data.py loading) is identical to this version. Run log: logs/colab_2026-09-28/. "
+}
